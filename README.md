@@ -33,3 +33,9 @@ Para ejecutar la aplicación debes ingresar el siguiente comando:
 ```
 $ docker compose run --rm scripts sh -c "python test.py"
 ```
+
+### Bibliografía
+
+```
+https://developers.facebook.com/docs/whatsapp/
+```
