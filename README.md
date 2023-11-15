@@ -5,7 +5,7 @@
 Para descargar la aplicación del repo, se debe escribir el siguiente comando:
 
 ```
-INSERTAR ENLACE
+$ git clone https://github.com/FragmentosTemporales/WHATSAPP-BUSINESS-API.git
 ```
 
 ### Variables de entorno
