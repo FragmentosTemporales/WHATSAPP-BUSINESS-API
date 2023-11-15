@@ -23,7 +23,7 @@ ACCESS_TOKEN=
 Para instalar la aplicación debes ejecutar el siguiente código:
 
 ```
-docker compose build
+$ docker compose build
 ```
 
 ## 2. Ejecución
@@ -31,5 +31,5 @@ docker compose build
 Para ejecutar la aplicación debes ingresar el siguiente comando:
 
 ```
-docker compose run --rm scripts sh -c "python test.py"
+$ docker compose run --rm scripts sh -c "python test.py"
 ```
