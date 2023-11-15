@@ -1,0 +1,11 @@
+version: "3"
+services:
+  scripts:
+    build:
+      context: scripts
+      dockerfile: Dockerfile
+    restart: always
+    env_file:
+      - ./scripts/env.env
+    volumes:
+      - ./scripts:/scripts
